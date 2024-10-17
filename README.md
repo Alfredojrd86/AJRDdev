@@ -1,17 +1,13 @@
-# NexTemp | A Next.js Personal Web App
-
-![NexTemp - A Next.js Personal Web App](https://github.com/lilxyzz/nextemp/blob/main/public/NexTemp-cover.png)
-
-NexTemp - A bespoke **template** for your **next** web project. NexTemp is a personal portfolio and blog theme built around Next.js. It features a modern, clean, and responsive design, perfect for developers or anyone looking to showcase their work and ideas. For more themes and updates, stay tuned.
-
 ## 📚 Tech Stack
+
 Next.js 14+
 React 18+
 Tailwind CSS 3+
 Framer Motion 11+
 
 ## ✨ Features
-- Dark and light color mode 
+
+- Dark and light color mode
 - Reusable Components
 - Blog post creation
 - Animations with Framer Motion
@@ -19,14 +15,6 @@ Framer Motion 11+
 - Mobile-first responsive layout
 - Sitemap support
 - 95+ Lighthouse
-
-## 🚀 NexTemp Pro Coming Soon
-**Features**
-- SEO optimised 
-- Post tags and categories
-- Integration with Hashnode CMS for easy post publishing
-- PWA support
-  
 
 ### 🛠️ Requirements
 
@@ -41,7 +29,7 @@ Framer Motion 11+
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/lilxyzz/nextemp.git
+    git clone https://github.com/AJRDdev/ar-portfolio.git
     ```
 
 2. Navigate into the repository:
@@ -64,8 +52,6 @@ Framer Motion 11+
 #### 🙏 Thanks
 If you like this theme, don't forget to give it a ⭐.
 
-#### 🤝 Contributing
-Got enhancements you envision? Contributions are welcome! Fork the repo, push your changes, and submit a pull request. Let's make this theme better, together.
 
 #### 👾 Issues
 For any challenges encountered, please feel free to report issues through our issue tracker.
