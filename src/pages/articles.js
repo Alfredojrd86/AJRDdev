@@ -153,7 +153,7 @@ export default function Articles() {
               title="Unlocking the Power of Gatsby & Netlify"
               time="2 min read"
               summary="Image-centric Gatsby theme for publishers, portfolio, photographers blogs and more."
-              link="https://travislord.xyz/articles/guide-to-clay-theme-gatsby-web-app"
+              link="https://"
             />
 
             <FeaturedArticle
@@ -161,7 +161,7 @@ export default function Articles() {
               title="My MacBook Setup For Development 2024"
               time="4 min read"
               summary="As we step into another year of exciting journeys, I figured it was the perfect moment to unveil the newest adjustments and tools I'm using in my MacBook setup."
-              link="https://travislord.xyz/articles/top-macbook-setup-tips-for-2024"
+              link="https://"
             />
           </ul>
 
@@ -176,7 +176,7 @@ export default function Articles() {
               img={loading}
               time="1 min read"
               date=""
-              link="https://github.com/lilxyzz/"
+              link="https://github.com/"
             />
           </ul>
 

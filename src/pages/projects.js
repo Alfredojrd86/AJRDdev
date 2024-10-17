@@ -263,7 +263,7 @@ export default function Projects() {
                 img={proj1}
                 date="2023"
                 link="https://www.fycgroup.cl/"
-                // github="https://travislord.xyz/projects/clay-gatsby-theme"
+                // github="https://"
               />
             </div>
             {/* <div className="col-span-6 sm:col-span-12">
@@ -274,7 +274,7 @@ export default function Projects() {
                 img={proj1}
                 date="2023"
                 link="/projects/clay-gatsby-theme"
-                github="https://travislord.xyz/projects/clay-gatsby-theme"
+                github="https://"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
@@ -285,7 +285,7 @@ export default function Projects() {
                 img={proj1}
                 date="2023"
                 link="/projects/clay-gatsby-theme"
-                github="https://travislord.xyz/projects/clay-gatsby-theme"
+                github="https://"
               />
             </div> */}
           </div>
@@ -298,7 +298,7 @@ export default function Projects() {
                 img={loading}
                 time="1 min read"
                 date=""
-                // link="https://github.com/lilxyzz/"
+                // link="https://github.com/"
                 link=""
               />
             </ul>
